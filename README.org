@@ -22,7 +22,7 @@ A pdf version of this file can be found at [[file:README.pdf][README.pdf]]
  Join Zoom Meeting
  https://berkeley.zoom.us/j/5519986624
 
- Meeting ID: 551 998 6624
+ Meeting ID: 551 998 6624 
  One tap mobile
  +16692192599,,5519986624# US (San Jose)
  +16699006833,,5519986624# US (San Jose)
