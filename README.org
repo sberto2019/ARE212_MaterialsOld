@@ -1,5 +1,5 @@
 #+TITLE:  Materials for ARE212
-#+AUTHOR: Ethan Ligon
+#+AUTHOR: Ethan Ligon, last changed April 23
 
 A pdf version of this file can be found at [[file:README.pdf][README.pdf]]
 * General Policies
